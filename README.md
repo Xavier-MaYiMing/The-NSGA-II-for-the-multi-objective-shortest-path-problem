@@ -21,7 +21,7 @@ The multi-objective aims to find a set of paths with minimized costs.
 
 #### Example
 
-![MCMOPOP](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the multi-category multi-objective path optimization problem\MCMOPOP.png)
+![image](https://github.com/Xavier-MaYiMing/The-NSGA-II-for-the-multi-objective-shortest-path-problem/blob/main/MOSPP.png)
 
 ```python
 if __name__ == '__main__':
