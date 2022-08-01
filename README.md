@@ -1,4 +1,4 @@
-### The Ripple-Spreading Algorithm for the Multi-Objective Shortest Path Problem
+### The NSGA-II for the Multi-Objective Shortest Path Problem
 
 ##### Reference: Deb K, Pratap A, Agarwal S, et al. A fast and elitist multiobjective genetic algorithm: NSGA-II[J]. IEEE Transactions on Evolutionary Computation, 2002, 6(2): 182-197. 
 
